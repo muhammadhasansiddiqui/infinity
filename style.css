@@ -1,0 +1,146 @@
+ /* ======>import bootstrap     */
+
+ @import url(bootstrap.css);
+
+ /* ======>import bootstrap     */
+
+
+ /* ======>import bootstrap     */
+
+ @import url(mob.css);
+
+ /* ======>import bootstrap     */
+
+ * {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0 !important;
+        margin: 0 !important;
+ }
+
+ .container-fuild {
+        background-image: url(images/bg.jpg) !important;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+ }
+
+ .container {
+
+
+        padding-top: 100px !important;
+
+ }
+
+ .one {
+        background-color: white;
+        height: 80vh;
+        border-radius: 10px 0 0px 10px;
+ }
+
+
+ .bilding {
+        border-radius: 0px 10px 10px 0px;
+        background-color: red !important;
+        height: 80vh;
+        z-index: -1 !important;
+        opacity: 0.8;
+
+        padding-top: 80px !important;
+        font-weight: bold;
+ }
+
+ .bilding {
+
+        background-image: url(https://www.shutterstock.com/image-photo/photo-commercial-office-buildings-exterior-600nw-123829519.jpg);
+        opacity: -0.9px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 80vh;
+        border-radius: 0px 10px 10px 0px;
+        object-fit: cover !important;
+
+
+
+
+ }
+
+ .wel {
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        padding-top: 30px !important;
+ }
+
+ .main-h {
+
+        box-shadow: 2px 5px 5px 0px rgba(255, 0, 0, 0.481);
+
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: red;
+ }
+
+ .right-para {
+
+        color: white;
+ }
+
+ .main-h11 {
+
+
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: red;
+ }
+
+ .img8 {
+        position: relative;
+        top: -10px;
+ }
+
+ .para-1 {
+        width: 70%;
+ }
+
+ input {
+        text-align: center;
+        border: 1px gray solid;
+        border-radius: 20px;
+        width: 250px;
+        height: 35px;
+ }
+
+ button {
+
+        text-align: center;
+        background-color: red;
+        border: none;
+        border-radius: 20px;
+        width: 250px;
+        height: 35px;
+        color: white;
+        font-weight: bold;
+        box-shadow: 2px 5px 5px 0px rgba(255, 0, 0, 0.481);
+
+
+ }
+
+ button:hover {
+        background-color: rgb(90, 2, 2);
+
+
+ }
+
+ .forget {
+        padding-top: 7px !important;
+        font-size: 12px;
+
+ }
+
+ .soical {
+        padding-bottom: 10px;
+        padding-top: 10px !important;
+
+ }
